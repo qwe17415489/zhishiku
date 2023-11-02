@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hello no word!
+          hello no word! 搞起来
         </a>
       </header>
     </div>
