@@ -40,7 +40,17 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -53,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -67,7 +78,7 @@
       <updated>1698735659748</updated>
       <workItem from="1698735660884" duration="2318000" />
       <workItem from="1698917648028" duration="32000" />
-      <workItem from="1698917825873" duration="3665000" />
+      <workItem from="1698917825873" duration="6100000" />
     </task>
     <servers />
   </component>
