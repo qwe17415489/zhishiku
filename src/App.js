@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hello no word! 搞起来啊
+          hello no word! 搞起来啊 奥利给
         </a>
       </header>
     </div>
