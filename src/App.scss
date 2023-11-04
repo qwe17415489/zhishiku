@@ -1,0 +1,27 @@
+.title{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 21px;
+  font-weight: bold;
+  background-color: #c9bbdd;
+}
+.navigation{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  text-align: center;
+  li{
+    box-sizing: border-box;
+    padding-top: 10px;
+    list-style: none;
+    width: 20%;
+    height: 245px;
+    .name{
+      color: #fff;
+      font-size: 18px;
+    }
+  }
+}
