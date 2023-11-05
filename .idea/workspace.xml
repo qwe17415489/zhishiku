@@ -5,17 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc7852c9-e74b-440f-b09f-473c8ef5ac67" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/nacigation/frontend.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENCE" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/navigation/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/Home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/Knowledge/Knowledge.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home/Knowledge/Knowledge.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/nacigation/frontend.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/navigation/frontend.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +53,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/lilongfei/Desktop/juan/zhishiku/src/assets/nacigation",
+    "last_opened_file_path": "/Users/lilongfei/Desktop/juan/zhishiku/src/assets/navigation",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,7 +68,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/navigation" />
       <recent name="$PROJECT_DIR$/src/assets/nacigation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views/Home" />
+      <recent name="$PROJECT_DIR$/src/components/knowledge" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -109,7 +127,7 @@
       <workItem from="1698917648028" duration="32000" />
       <workItem from="1698917825873" duration="10842000" />
       <workItem from="1699002007655" duration="909000" />
-      <workItem from="1699006778686" duration="8011000" />
+      <workItem from="1699006778686" duration="17211000" />
     </task>
     <servers />
   </component>

@@ -1,8 +1,7 @@
 import React, { FunctionComponent, lazy, Suspense } from 'react';
 import { Spin } from 'antd';
 import { Routes, Route } from 'react-router-dom';
-
-import Home from './Home';
+import Home from "../views/Home/Home";
 
 const About = lazy(() => import('./About'));
 

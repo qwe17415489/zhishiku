@@ -6,7 +6,11 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: './',
   // plugins: [eslint({ cache: false }), react()],
+  plugins: [
+
+  ],
   build: {
     outDir: 'build',//想要把dist修改成什么名字在这边改
     // assetsDir:'文件名'//想要把static修改成什么名字在这边改
